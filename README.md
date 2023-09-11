@@ -8,7 +8,7 @@ Pengurangan repetisi kode 40-80% dengan pertegas modularisasi dan penerapan _fea
 
 - Extract kode yang berulang menjadi _reusable widget_ lokal.
 Contoh:
-![Alt text](image/1.png)
+![Alt text](1.png)
 
 
 - Pemindahan semua logic yang ada di _views_ ke _controllers_.
